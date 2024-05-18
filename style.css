@@ -36,10 +36,11 @@ main {
     padding: 20px;
 }
 
-.photo {display: flex;
+.photo {
+    display: flex;
     flex-direction: row;
-  justify-content: center;
-  gap: 10px;
+    justify-content: center;
+    gap: 10px;
     margin: 10px;
 }
 
