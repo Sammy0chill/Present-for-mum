@@ -55,7 +55,11 @@ footer {
     color: white;
     text-align: center;
     padding: 10px 0;
-    position: fixed;
+    /* position: fixed; */
     bottom: 0;
     width: 100%;
+}
+@media screen and (max-width:760px)  {
+    .photo img { width: 250px;}
+    
 }
